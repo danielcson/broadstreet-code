@@ -1,3 +1,3 @@
 # broadstreet-helper
 
-Code to check BroadStreet's Daily Numbers data. 
+Code to automate the process checking the integrity of BroadStreet's Daily Numbers data. 
