@@ -1,3 +1,3 @@
 # broadstreet-helper
 
-Methods to check BroadStreet's Daily Numbers data. 
+Code to check BroadStreet's Daily Numbers data. 
